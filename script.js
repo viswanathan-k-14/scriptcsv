@@ -1,6 +1,6 @@
 const API_KEY =
-  '27924155dd9a9f5f262ff465927ba4216b4fae875f20a9efce26acd219935352';
-const USER_NAME = 'nandini.d';
+  '';
+const USER_NAME = '';
 const csvtojson = require('csvtojson');
 const axios = require('axios');
 const csvURI = 'C://Users/Admin/Downloads/data.csv';
